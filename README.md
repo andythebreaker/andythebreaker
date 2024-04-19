@@ -67,7 +67,7 @@
   <img align="left" width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andythebreaker&theme=github_dark" />
 </a>
 
-![](https://github.com/andythebreaker/andythebreaker/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/andythebreaker/andythebreaker/blob/output/github-snake.svg)
 
 
 ---

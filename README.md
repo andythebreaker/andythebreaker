@@ -54,7 +54,7 @@
 <!--
 ## &#128202; Git Stats
 -->
-<h2 ><img src ="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width ="37">&nbsp Git Stats</h1>
+<h2 ><img src ="https://private-user-images.githubusercontent.com/43373581/324137705-f0fd9b8e-144e-4114-bf42-e4b9cfcd3376.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NzAxMTAsIm5iZiI6MTcxMzU2OTgxMCwicGF0aCI6Ii80MzM3MzU4MS8zMjQxMzc3MDUtZjBmZDliOGUtMTQ0ZS00MTE0LWJmNDItZTRiOWNmY2QzMzc2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE5VDIzMzY1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZWE2ZjFiODc0NzNlYjA5ZTVlZWVmNDVmMmVmYjUwM2M1NjVlNDFmYTdhMTEzOWJjNDhjMzY3YjJhYjliMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3XdRoncBJR4PqMKLyP7ssZRCnszhxEH3Q65PNGkdC14" width ="37">&nbsp Git Stats</h1>
 <a href="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true">
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true"/>
 </a>

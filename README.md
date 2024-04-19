@@ -59,6 +59,8 @@
   <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true"/>
 </a>
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/b9843a2e-725e-4199-8878-585da894128a/jJDpbWqgDb.json" background="transparent" speed="1" style="width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
   <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
 </a>

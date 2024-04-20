@@ -11,27 +11,20 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="center"  src="https://komarev.com/ghpvc/?username=andythebreaker&style=for-the-badge">
 </a>
-
 </p>
 
 
 ---
 
-<!--
-![](https://github.com/Coolshanlan/Coolshanlan/blob/main/Image/Introduction.gif?raw=true)
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:coolshanlan@gmail.com)
-[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/huang-yu-chen-02b4101b5/)
-[![My Kaggke](https://img.shields.io/badge/My%20Kaggle-3D80E0?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/joey0201)
--->
+
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:e24074724@mail.ncku.edu.tw)
+[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%E8%BA%8D%E8%96%BE-%E8%A8%B1-419482227/)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F)
-<!---![Visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=andythebreaker&countColor=rgb(55,154,110))--->
-<!--
-## 🛠 &nbsp;Tech Stack
--->
+
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   
-<!--
+
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
 ![C sharp](https://img.shields.io/badge/-C%20Sharp-0d1117?style=flat-square&logo=csharp&logoColor=1D9924)&nbsp;
 ![C](https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
@@ -46,14 +39,10 @@
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?&style=flat-square&logo=pandas)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)&nbsp;
-![Github Flow](https://img.shields.io/badge/Github%20Flow-0d1117?logo=Github&logoColor=white&style=flat-square)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
--->
 
-<!--
-## &#128202; Git Stats
--->
+
 <h2 ><img src ="https://raw.githubusercontent.com/andythebreaker/andythebreaker/master/s.gif" width ="37">&nbsp Git Stats</h2>
 
 <table style="width: 100%;">

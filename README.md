@@ -62,7 +62,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0d1117?style=flat-square&logo=visual-studio-code)&nbsp;
 
 
-
 <h2 ><img src ="https://raw.githubusercontent.com/andythebreaker/andythebreaker/master/s.gif" width ="37">&nbsp Git Stats</h2>
 
 <table style="width: 100%;">
@@ -88,18 +87,10 @@
 </table>
 
 
-
-
-
 ![](https://github.com/andythebreaker/andythebreaker/blob/output/github-snake.svg)
 
 
 ---
-
-
-- 說明文字...
- 
-
 
 ## Live Project 🚀
 
@@ -109,107 +100,24 @@
 | html5icon uri | ... |
 
 
-
-## Languages and Tools:
-
-<!--img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git" height="25" /></img>
-<img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=007ACC" height="25" /></img> <img src="https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" height="25" /></img> <img src="https://img.shields.io/badge/-Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=007ACC" height="25" /></img>
-
-<img src="https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=laravel&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=flask&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/-Selenium-white?style=for-the-badge&logo=selenium&logoColor=007ACC" height="25" /></img>
-
-<img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/-Php-white?style=for-the-badge&logo=php&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=007ACC" height="25" /></img>
-<img src="https://img.shields.io/badge/-c++-white?style=for-the-badge&logo=c%2B%2B&logoColor=007ACC" height="25" /></img-->
-
-
-
-### Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### Waka Stats :
-<!--START_SECTION:waka-->
 
-<!--
-
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 277 Contributions in the Year 2022
- > 
-> 📦 341.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-🌆 Daytime    76 commits     ███████░░░░░░░░░░░░░░░░░░   29.01% 
-🌃 Evening    93 commits     █████████░░░░░░░░░░░░░░░░   35.5% 
-🌙 Night      43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.41%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Tuesday      48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
-Wednesday    46 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Friday       41 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Saturday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-Sunday       42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   13 hrs 1 min        █████████████████░░░░░░░░   71.34% 
-Java                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
-PHP                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-SQL                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.47% 
-INI                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
-
-🔥 Editors: 
-PyCharmCore              13 hrs 43 mins      ██████████████████░░░░░░░   75.22% 
-VS Code                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-IntelliJ                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
-
-💻 Operating System: 
-Windows                  18 hrs 15 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   23 repos            █████████████░░░░░░░░░░░░   53.49% 
-PHP                      16 repos            █████████░░░░░░░░░░░░░░░░   37.21% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
-
-```
-
-
-
- Last Updated on 12/12/2022 12:17:07 UTC-->
-<!--END_SECTION:waka-->
+<table style="width: 100%;">
+<tr><td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/e16d2e63-0b15-45c9-b576-2af00652e89a.svg"></embed></figure>
+</td><td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/4cc1ed29-7754-40b3-b248-3e47e521ce55.svg"></embed></figure>
+</td>
+</tr><tr>
+<td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1da0bb44-9220-48ba-b33e-c14197c66321.svg"></embed></figure>
+</td><td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/ec93d8cf-2872-43f4-93b3-f77b6ae24726.svg"></embed></figure>
+</td>
+</tr><tr>
+<td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/04efe461-79f7-45f7-ae6d-c86a06aa1f65.svg"></embed></figure>
+</td><td>
+<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1db53c9a-22b8-406b-addb-65807f7e6412.svg"></embed></figure>
+</td></tr>
+</table>

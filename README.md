@@ -29,7 +29,7 @@
 <!--
 ## 🛠 &nbsp;Tech Stack
 -->
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h1>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   
 <!--
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python)&nbsp;
@@ -54,18 +54,25 @@
 <!--
 ## &#128202; Git Stats
 -->
-<h2 ><img src ="https://raw.githubusercontent.com/andythebreaker/andythebreaker/master/s.gif" width ="37">&nbsp Git Stats</h1>
-<a href="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true">
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true"/>
-</a>
+<h2 ><img src ="https://raw.githubusercontent.com/andythebreaker/andythebreaker/master/s.gif" width ="37">&nbsp Git Stats</h2>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
-  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
-</a>
+<div style="display: grid; justify-items: center; grid-template-columns: repeat(1, 1fr);grid-template-rows: repeat(3, 1fr); grid-column-gap: 10px;">
 
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andythebreaker&theme=github_dark">
-  <img align="left" width="87%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andythebreaker&theme=github_dark" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true">
+    <img align="left" style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=andythebreaker&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true"/>
+  </a>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true">
+    <img align="left" style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andythebreaker&layout=compact&theme=vue&show_icons=true&bg_color=0d1117&text_color=ccc&include_all_commits=true&border_radius=15&hide_border=true&langs_count=8&hide=HTML,CSS,Batchfile&exclude_repo=Learning-Resource&count_private=true" />
+  </a>
+
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andythebreaker&theme=github_dark">
+    <img align="left" style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andythebreaker&theme=github_dark" />
+  </a>
+
+</div>
+
+
 
 ![](https://github.com/andythebreaker/andythebreaker/blob/output/github-snake.svg)
 

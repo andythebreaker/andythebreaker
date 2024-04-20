@@ -1,5 +1,4 @@
 
-
 <h1 align="center">andythebreaker</h1>
 <h3 align="center">_</h3>
 
@@ -7,20 +6,8 @@
 	<!--社群媒體-->
 </p>
 
-<p align="center" style="p3">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img align="center"  src="https://komarev.com/ghpvc/?username=andythebreaker&style=for-the-badge">
-</a>
-</p>
-
-
----
-
-
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:e24074724@mail.ncku.edu.tw)
-[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%E8%BA%8D%E8%96%BE-%E8%A8%B1-419482227/)
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F)
+|[![profile views](https://komarev.com/ghpvc/?username=andythebreaker&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)|[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:e24074724@mail.ncku.edu.tw)|[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%E8%BA%8D%E8%96%BE-%E8%A8%B1-419482227/)|[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F)|
+|--|--|--|--|
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   

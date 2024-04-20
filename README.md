@@ -6,7 +6,7 @@
 	<!--社群媒體-->
 </p>
 
-<table style="width: 100%; table-layout: fixed;">
+<table  align="center" style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 25%; text-align: center;">
       <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -30,8 +30,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   

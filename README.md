@@ -27,7 +27,7 @@
 </table>
 
 
-<h4 align="center"> A Taiwanese software engineer specialized in backend web development. Enjoys creating tools himself and sharing them with others.</h4> 
+<h4 align="center"> A Taiwanese software engineer specialized in backend web development.<br>Enjoys creating tools himself and sharing them with others.</h4> 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   

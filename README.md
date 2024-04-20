@@ -6,8 +6,32 @@
 	<!--社群媒體-->
 </p>
 
-|[![profile views](https://komarev.com/ghpvc/?username=andythebreaker&style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)|[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:e24074724@mail.ncku.edu.tw)|[![My Linkdin](https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%E8%BA%8D%E8%96%BE-%E8%A8%B1-419482227/)|[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F&label=Visitors&countColor=%23379a6d)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F)|
-|--|--|--|--|
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 25%; text-align: center;">
+      <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=andythebreaker&style=for-the-badge" alt="profile views">
+      </a>
+    </td>
+    <td style="width: 25%; text-align: center;">
+      <a href="mailto:e24074724@mail.ncku.edu.tw">
+        <img src="https://img.shields.io/badge/Email%20Me-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email Me">
+      </a>
+    </td>
+    <td style="width: 25%; text-align: center;">
+      <a href="https://www.linkedin.com/in/%E8%BA%8D%E8%96%BE-%E8%A8%B1-419482227/">
+        <img src="https://img.shields.io/badge/My%20Linkedin-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="My Linkdin">
+      </a>
+    </td>
+    <td style="width: 25%; text-align: center;">
+      <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F">
+        <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fandythebreaker%2Fandythebreaker%2F&label=Visitors&countColor=%23379a6d" alt="Visitors">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">&nbsp Tech Stack</h2>
   

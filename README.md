@@ -102,22 +102,7 @@
 
 ### Waka Stats :
 
-<table style="width: 100%;">
-<tr><td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/e16d2e63-0b15-45c9-b576-2af00652e89a.svg"></embed></figure>
-</td><td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/4cc1ed29-7754-40b3-b248-3e47e521ce55.svg"></embed></figure>
-</td>
-</tr><tr>
-<td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1da0bb44-9220-48ba-b33e-c14197c66321.svg"></embed></figure>
-</td><td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/ec93d8cf-2872-43f4-93b3-f77b6ae24726.svg"></embed></figure>
-</td>
-</tr><tr>
-<td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/04efe461-79f7-45f7-ae6d-c86a06aa1f65.svg"></embed></figure>
-</td><td>
-<figure><embed src="https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1db53c9a-22b8-406b-addb-65807f7e6412.svg"></embed></figure>
-</td></tr>
-</table>
+| ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/e16d2e63-0b15-45c9-b576-2af00652e89a.svg) | ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/4cc1ed29-7754-40b3-b248-3e47e521ce55.svg) |
+|--|--|
+| ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1da0bb44-9220-48ba-b33e-c14197c66321.svg) | ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/ec93d8cf-2872-43f4-93b3-f77b6ae24726.svg) |
+| ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/04efe461-79f7-45f7-ae6d-c86a06aa1f65.svg) | ![image](https://wakatime.com/share/@2dc265e2-9908-4c2f-b087-3c4a5633c5ab/1db53c9a-22b8-406b-addb-65807f7e6412.svg) |

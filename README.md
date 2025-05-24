@@ -95,9 +95,9 @@
 ## Live Project 🚀
 
 
-| Website             | Description     |
+| repo             | Description     |
 | ----------------- | --- |
-| html5icon uri | ... |
+| [=D](https://github.com/diagmind/onenote2md) | diagmind |
 
 
 ### Waka Stats :
